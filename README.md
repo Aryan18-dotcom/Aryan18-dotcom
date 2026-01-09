@@ -1,101 +1,87 @@
-<!-- ===================== -->
-<!--  D A R K   P R O F I L E -->
-<!-- ===================== -->
+# 👋 Hi, I’m Aryan
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aryan.;Full-Stack+Web+Developer.;Minimal.+Modern.+Interactive." />
-</p>
+I’m a **full-stack web developer** who enjoys turning ideas into **clean, interactive, and intuitive web experiences**.
 
-<p align="center">
-  <a href="https://ac-portfolio-phi.vercel.app">🌐 Portfolio</a> •
-  <a href="https://github.com/Aryan18-dotcom">🐙 GitHub</a>
-</p>
+I focus on **UI/UX**, performance, and writing **maintainable, scalable code**.  
+I prefer **minimal design**, subtle interactions, and solutions that feel natural to use.
+
+Always learning. Always building. Always improving.
+
+🌐 **Portfolio:** https://ac-portfolio-phi.vercel.app
 
 ---
 
-## 🧠 About Me
+## 🌐 Connect with Me
 
-I’m **Aryan**, a full-stack developer focused on building  
-**modern, interactive, and minimal web experiences**.
-
-I care deeply about:
-- Clean UI & smooth UX
-- Scalable, readable code
-- Subtle interactions over flashy noise
-
-I believe **simplicity is the ultimate sophistication**.
-
----
-
-## 🎧 Spotify — What I’m Vibing To
-
-<p align="center">
-  <!-- Spotify Now Playing (auto-updates when connected) -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&bar_color=0d1117&bar_color_cover=false" />
-</p>
-
-<p align="center">
-  🎵 Current favorite track  
-  <br/>
-  <a href="https://open.spotify.com/track/648GXyKI62FhbeBq0levWr">
-    ▶ Play on Spotify
+<p align="left">
+  <a href="https://linkedin.com/in/aryan chheda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/aryan_chheda7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:AryanChheda22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-> Minimal. Passive. No autoplay. Just presence.
+---
+
+## 💻 Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
 
 ---
 
-## ⏱️ Coding Activity (Focused & Quiet)
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- WakaTime Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan18-dotcom&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan18-dotcom&layout=compact&theme=dark&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Aryan18-dotcom&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🛠 Tech I Use
+## 🏆 Highlights
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,git,github&theme=dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryan18-dotcom&theme=dark&no-frame=true&margin-w=8"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## ✍️ Thought of the Day
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan18-dotcom&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan18-dotcom&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryan18-dotcom&theme=github-dark&hide_border=true"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
 ---
 
-## 🎛 Theme Preference (Visual Only)
-
-> GitHub README cannot toggle themes dynamically  
-> These links respect **your system / GitHub preference**
-
 <p align="center">
-  🖥 System • 🌙 Dark • ☀ Light
-</p>
-
----
-
-## 📫 Reach Me
-
-- 🌐 https://ac-portfolio-phi.vercel.app
-- 🐙 https://github.com/Aryan18-dotcom
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aryan18-dotcom&label=Views&color=0d1117&style=flat" />
+  <img src="https://visitcount.itsvg.in/api?id=Aryan18-dotcom&icon=3&color=0"/>
 </p>
 
 <p align="center">
