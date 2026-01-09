@@ -15,13 +15,13 @@ Always learning. Always building. Always improving.
 
 <p align="left">
   <a href="https://in.linkedin.com/in/aryan-chheda-19ab54363" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="28"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/aryan_chheda7" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="28"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:AryanChheda22@gmail.com">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="28"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -30,41 +30,24 @@ Always learning. Always building. Always improving.
 ## 💻 Tech Stack
 
 ### Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
-### Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="36" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="36" />
-</p>
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite)
 
 ### Tools & Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
 
 ---
 
